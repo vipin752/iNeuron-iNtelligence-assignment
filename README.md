@@ -1,2 +1,2 @@
 # iNeuron-iNtelligence-assignment
-can iNeuron iNtelligence free python course
+iNeuron iNtelligence free python course
